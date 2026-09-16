@@ -6,6 +6,11 @@ An in-depth Computer Science project implementing core **Information Retrieval (
 
 ---
 
+### 🚀 Live Demo
+🔗 **[Click here to view the Live Application](https://alaakhallaf.github.io/retrival-practical/)**
+
+---
+
 ### 💡 Engineering Mindset & Motivation
 While high-level libraries exist for web development, I built this project to deeply understand the underlying **CS & IR Fundamentals**. Implementing vector mathematics and text distance matrices by hand reflects my commitment to being a **Software Engineer** who understands systems from the inside out, rather than just a developer using pre-built tools.
 
@@ -31,5 +36,4 @@ While high-level libraries exist for web development, I built this project to de
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Alaakhallaf/YOUR_REPO_NAME.git](https://github.com/Alaakhallaf/retrival-practical
-.git)
+   git clone [https://github.com/Alaakhallaf/retrival-practical.git](https://github.com/Alaakhallaf/retrival-practical.git)
